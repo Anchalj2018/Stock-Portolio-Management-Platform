@@ -1,1 +1,1 @@
-# STOCKZILLA--Stock-portolio-management-platform
+# STOCKZILLA-Stock-portolio-management-platform
