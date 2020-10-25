@@ -3,7 +3,11 @@
 
 Sound knowledge of stock market data and the latest news trends is very essential for a financial advisor or an investor for making investment decisions in the stock market. The stock market is a domain that is very volatile and the stock trends keep varying over time. The collective reason why all this variation is seen in the market is due to multiple factors such as the emotion of a people buying and selling the stocks, common news sentiments of the stock market, company news and also a staunch belief that the company will do well considering the fact that it has been doing good in the past few months/quarters. Inspite of knowing all this, sometimes the stocks we buy may plunge down just because of one small news about COVID-19 that caused a negative sentiment across the market or skyrocket the values of stock because the company made profits better than the analyst's prediction for that time period. Identifying the right set of moves to generate a diversified stock portfolio that mitigates the risk of financial loss is still an area of active research. Thus, forming the motivation for our project.
 
-
+## Project Team Members
+* Anchal Jain
+* Gayatry Ganapathy
+* Amogh Kalihal
+* Abhishek Sundar Raman
  
 ## Getting Started
 
