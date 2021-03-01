@@ -9,6 +9,10 @@ Sound knowledge of stock market data and the latest news trends is very essentia
 * Amogh Kalihal
 * Abhishek Sundar Raman
  
+
+## Data Pipeline
+![Data Pipeline](./readme_images/Data_Pipeline.png)
+ 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -217,12 +221,21 @@ Our website is also deployed on Amazon EC2 instance as [StockZilla](http://ec2-5
 ![UI_4](./readme_images/UI_4.png)
 ![UI_5](./readme_images/UI_5.png)
 
+
+#### Screenshots of our Web UI
+
+![UI_3](./readme_images/UI_3.png)
+![UI_4](./readme_images/UI_4.png)
+![UI_5](./readme_images/UI_5.png)
+
 ## Report
 
 You can have an overview of our project through our [YouTube video](https://youtu.be/stuchO6OG10) and can read in detail about our project in our [Medium report](https://medium.com/sfu-cspmp/stockzilla-f19c7d1b123a).
 
 Below is our [Project Milestone video](https://www.youtube.com/watch?v=IZPZtL_9jDI) where we had discussed our idea and what we had intended to do in this project.
 
+## Team in Action
+![team_in_action](./readme_images/team_in_action.png)
 
 ## Authors
 
